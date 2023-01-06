@@ -1,0 +1,2 @@
+# readme
+This is a word game called "WORDLE" where the user is given a certain number of tries to guess a hidden word of a given length. The user is given feedback on each guess indicating which letters are correct and in the correct position (EXACT), correct but in the wrong position (CLOSE), or incorrect (WRONG). The user wins the game if they correctly guess the hidden word within the allotted number of tries.
